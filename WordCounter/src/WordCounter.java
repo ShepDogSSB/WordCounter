@@ -59,7 +59,7 @@ public final class WordCounter {
              */
             String testVal = in.nextLine();
             if (!(testVal.contains(" ") && testVal.isEmpty())) {
-                words.enqueue(testVal);
+
             }
         }
     }
